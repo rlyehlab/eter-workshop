@@ -7,7 +7,7 @@ Subtítulo: Diseño participativo de un Monitor Libre de calidad de aire.
 ## PRESENTACIÓN:
 Ciencia abierta es producir conocimiento científico de manera abierta y colaborativa dejando en libre disponibilidad tanto los instrumentos de trabajo como los resultados intermedios y finales que se obtienen a lo largo de ese proceso. Esta forma de hacer ciencia cambia la producción de conocimiento científico porque es más eficiente, democrática y tiene el potencial de atender mejor a las demandas sociales.
 El caso que vamos a tomar como práctica para aprender a hacer ciencia abierta parte de que la contaminación del aire es una amenaza invisible que afecta la salud del 80% de la población en centros urbanos como Buenos Aires. En 2016 la OMS clasificó a Buenos Aires dentro de las ciudades que superan el límite de 10 μg/m3 para material particulado menor a 2.5 micrones2, altamente nocivo para la salud humana. Sin embargo, la información pública sobre la calidad del aire del Área Metropolitana de Buenos Aires es inexistente. Las mediciones privadas son caras e inaccesibles, y los datos difíciles de leer.
-Pretendemos reflexionar y aprender sobre la metodología que nos llevará a construir un dispositivo que mida la calidad del aire (PM2.5 y PM10) basándonos en el Proyecto MACA. Lo hacemos junto a docentes de José León Suárez, referentes comunitarios y todxs los interesadxs en colaborar con la generación demateriales educativos libres para que se pueda reproducir la experiencia.
+Pretendemos reflexionar y aprender sobre la metodología que nos llevará a construir un dispositivo que mida la calidad del aire (PM2.5 y PM10) basándonos en el Proyecto MACA. Lo hacemos junto a docentes de José León Suárez, referentes comunitarios y todxs los interesadxs en colaborar con la generación de materiales educativos libres para que se pueda reproducir la experiencia.
 Pensamos que las personas tienen que conocer las herramientas disponibles que las pueden ayudar a visibilizar y buscar soluciones a sus problemas de todos los días. Combinando sensores de bajo costo disponibles en el mercado con la ética y filosofía del software libre, queremos mostrar cómo se pueden construir herramientas libres que sean útiles para las personas.
 
 
@@ -57,7 +57,7 @@ El caso de Aaron Swartz. Experiencias comunitarias: la Mesa de Reconquista.
 ### Encuentro 5 : Miércoles 4 de julio de 2018.
 **Título:** Medir nuestro ambiente también es cuidarlo.
 **Subtítulo:** Métodos analógicos y digitales al alcance de todxs.
-**Contenidos:** Monitores, sensores y planillas. Experiencias y redes internacionales. La experiencia de UNSAM Sustentable. Cooperativas de recicladores del área de Reconquista.  La republica Ciruja: iconoclasistas. El proyeco Aerocene.  
+**Contenidos:** Monitores, sensores y planillas. Experiencias y redes internacionales. La experiencia de UNSAM Sustentable. Cooperativas de recicladores del área de Reconquista.  La republica Ciruja: iconoclasistas. El proyecto Aerocene.  
 **Responsable:** A definir
 
 ### Encuentro 6 :  Miércoles 18 de julio de 2018.
@@ -76,4 +76,4 @@ El caso de Aaron Swartz. Experiencias comunitarias: la Mesa de Reconquista.
 
 
 ## OBSERVACIONES (en caso de tener que aclarar algo):
-Todos los encuentros se realizarán el el área de Reconquista.
+Todos los encuentros se realizarán en el área de Reconquista.
