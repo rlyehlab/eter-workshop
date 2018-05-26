@@ -1,4 +1,7 @@
-## Ciencia Abierta & calidad del aire: Monitores digitales libres y juegos para un aprendizaje colaborativo [Círculo de estudios UNSAM]
+# Círculo de estudios UNSAM
+
+## Ciencia abierta & calidad del aire: Monitores digitales libres y juegos para un aprendizaje colaborativo 
+
 ### El caso de ETER en Área Reconquista, Buenos Aires 
 
 A partir del cruce con la filosofía del software libre, la Ciencia Abierta propone herramientas para 'abrir' las distintas etapas de la investigación hacia actores por fuera del laboratorio y las universidades. Utilizando metodologías de trabajo colaborativas, plantea la libre disponibilidad tanto los instrumentos de trabajo como del diseño, los resultados intermedios y finales que se obtienen a lo largo de ese proceso. 
@@ -24,11 +27,11 @@ De máquinas libres, datos abiertos y humanos colaborativos. Introducción a la 
 ### Encuentro 3: #DesobedienciaTecnológica (Miércoles 13/06)
 Las luchas por liberar los conocimientos. Datos, información, comunicación, derechos y poder. Métodos para buscar, presentar y utilizar los datos disponibles. El caso de Aaron Swartz. Experiencias comunitarias: la Mesa de Reconquista. 
 
-## Encuentro 4: #Gammification (Jueves 28/06)
+### Encuentro 4: #Gammification (Jueves 28/06)
 Juegos y aplicaciones para aprender a poner en práctica la Ciencia Abierta y Comunitaria. Aprender jugando y haciendo ciencia. Introducción a las teorías y prácticas del juego. Lo lúdico y el aprendizaje. El diseño de un juego visto desde adentro. 
 
-## Encuentro 5: #DataDataData (Miércoles 04/07)
+### Encuentro 5: #DataDataData (Miércoles 04/07)
 Medir el ambiente como otra forma de activismo. Métodos analógicos y digitales al alcance de todxs. Monitores, sensores y planillas. Experiencias y redes internacionales. ¿Qué se hace con los datos? ¿Cómo se usa la información? La experiencia de UNSAM Sustentable. Cooperativas de recicladores del área de Reconquista. La republica Ciruja: iconoclasistas. El proyecto Aerocene.
 
-## Encuentro 6: #DocumentoLuegoExisto (Miércoles 11/07)
+### Encuentro 6: #DocumentoLuegoExisto (Miércoles 11/07)
 Documentación: el corazón del código abierto. ¿Cómo se documenta una experiencia de ciencia comunitaria? Diferentes licencias. Herramientas disponibles, qué formatos, qué lenguajes, lo físico, lo digital. Armado de experiencias reproducibles. 
