@@ -14,6 +14,6 @@ Tomando como punto de partida el proyecto ['ETER'](https://etermonitor.net) de m
 
 ### Encuentro 1: #CienciaNinja
 
-![ciencia ninja](https://github.com/rlyehlab/eter-workshop/blob/master/Session1/BESTFLYEREVAH.jpg)
+![ciencia ninja](https://github.com/rlyehlab/eter-workshop/blob/master/Session1/flyerconmail.png)
 
 Alternativas al modelo de producción científica actual ¿Ciencia Abierta, Ciudadana, Comunitaria? Similitudes y diferencias. ¿Por qué armar un proyecto de ciencia comunitaria? ¿Para quién? ¿Qué se necesita? Oportunidades, obstáculos, beneficios. El caso de ETER en Área Reconquista, Buenos Aires.
