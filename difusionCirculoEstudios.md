@@ -1,6 +1,5 @@
-## Círculo de estudios UNSAM
-## Ciencia Abierta & calidad del aire: monitores digitales libres y juegos para un aprendizaje colaborativo
-### El caso de ETER en Área Reconquista, Buenos Aires
+## Ciencia Abierta & calidad del aire: Monitores digitales libres y juegos para un aprendizaje colaborativo [Círculo de estudios UNSAM]
+### El caso de ETER en Área Reconquista, Buenos Aires 
 
 A partir del cruce con la filosofía del software libre, la Ciencia Abierta propone herramientas para 'abrir' las distintas etapas de la investigación hacia actores por fuera del laboratorio y las universidades. Utilizando metodologías de trabajo colaborativas, plantea la libre disponibilidad tanto los instrumentos de trabajo como del diseño, los resultados intermedios y finales que se obtienen a lo largo de ese proceso. 
 
