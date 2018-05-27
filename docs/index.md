@@ -2,7 +2,10 @@
 
 ## Ciencia abierta & calidad del aire: Monitores digitales libres y juegos para un aprendizaje colaborativo 
 
-### El caso de ETER en Área Reconquista, Buenos Aires 
+**Lugar**: R'lyeh Hacklab - Uruguay y Bartolomé Mitre, CABA    
+**Horario**: 18-21hs    
+**Modalidad**: Seis encuentros independientes, con inscripción    
+**Fechas**: Ver detalle de cada encuentro
 
 A partir del cruce con la filosofía del software libre, la Ciencia Abierta propone herramientas para 'abrir' las distintas etapas de la investigación hacia actores por fuera del laboratorio y las universidades. Utilizando metodologías de trabajo colaborativas, plantea la libre disponibilidad tanto los instrumentos de trabajo como del diseño, los resultados intermedios y finales que se obtienen a lo largo de ese proceso. 
 
@@ -10,10 +13,7 @@ Sin embargo bajo el concepto 'Ciencia Abierta' encontramos un gradiente de prác
 
 Tomando como punto de partida el proyecto ['ETER'](https://etermonitor.net) de monitoreo comunitario de calidad de aire en Buenos Aires, nos disponemos a aprender -colaborativamente- en seis encuentros qué es la ciencia abierta, cuáles son sus ventajas y cuáles sus problemas, cómo pueden utilizarse sus herramientas en nuestro contexto latinoamericano, qué se puede construir a bajo costo y otras maneras de hackear la torre de marfil. 
 
-**Lugar**: R'lyeh Hacklab - Uruguay y Bartolomé Mitre, CABA    
-**Horario**: 18-21hs    
-**Modalidad**: Gratuita con inscripción    
-**Fechas**: Ver detalle de cada encuentro
+***
 
 ### Encuentro 1: #CienciaNinja (30/05)
 
