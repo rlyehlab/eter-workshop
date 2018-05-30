@@ -18,7 +18,7 @@
 - Introducción de conceptos: 
 
   - Tipos de conocimiento, el caso del conocimiento científico ¿Quién produce conocimiento científico? ¿Para quién? La torre de marfil.
-  - Ciencia abierta: etapas de apertura en la investigación, metodologías, herramientas y licencias libres disponibles. Casos paradigmáticos en el mundo y en América Latina. Alcances, beneficios y obstáculos para las comunidades. 
+  - Ciencia abierta: etapas de apertura en la investigación, metodologías, herramientas y licencias libres disponibles. Casos paradigmáticos en el mundo y en América Latina (FoldIt, Open Knowledge Maps, . Alcances, beneficios y obstáculos para las comunidades. 
   - Otros enfoques: Ciencia para la gente, Ciencia Digna, Ciencia Ciudadana, Ciencia comunitaria. 
 
 **Técnica:** Presentación dialogada    
