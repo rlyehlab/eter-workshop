@@ -17,8 +17,6 @@ Tomando como punto de partida el proyecto ['ETER'](https://etermonitor.net) de m
 
 ### Encuentro 1: #CienciaNinja (30/05)
 
-![ciencia ninja](https://github.com/rlyehlab/eter-workshop/blob/master/Session1/flyerconmail.png)
-
 Alternativas al modelo de producción científica actual ¿Ciencia Abierta, Ciudadana, Comunitaria? Similitudes y diferencias. ¿Por qué armar un proyecto de ciencia comunitaria? ¿Para quién? ¿Qué se necesita? Oportunidades, obstáculos, beneficios. El caso de ETER en Área Reconquista, Buenos Aires.
 
 ### Encuentro 2: #DesobedienciaTecnológica (Miércoles 06/06)
@@ -27,8 +25,8 @@ De máquinas libres, datos abiertos y humanos colaborativos. Introducción a la 
 ### Encuentro 3: #DeusExMachina (Miércoles 13/06)
 Las luchas por liberar los conocimientos. Datos, información, comunicación, derechos y poder. Métodos para buscar, presentar y utilizar los datos disponibles. El caso de Aaron Swartz. Experiencias comunitarias: la Mesa de Reconquista. 
 
-### Encuentro 4: #Gammification (Jueves 28/06)
-Juegos y aplicaciones para aprender a poner en práctica la Ciencia Abierta y Comunitaria. Aprender jugando y haciendo ciencia. Introducción a las teorías y prácticas del juego. Lo lúdico y el aprendizaje. El diseño de un juego visto desde adentro. 
+### Encuentro 4: #BetterGamify! (Jueves 28/06)
+Elementos de Juegos para poner en práctica en la Ciencia Abierta y Comunitaria. Aprender jugando y haciendo ciencia. Introducción a las teorías y prácticas de la Ludificación. Lo lúdico y el aprendizaje. El diseño de un juego visto desde adentro. 
 
 ### Encuentro 5: #DataDataData (Miércoles 04/07)
 Medir el ambiente como otra forma de activismo. Métodos analógicos y digitales al alcance de todxs. Monitores, sensores y planillas. Experiencias y redes internacionales. ¿Qué se hace con los datos? ¿Cómo se usa la información? La experiencia de UNSAM Sustentable. Cooperativas de recicladores del área de Reconquista. La republica Ciruja: iconoclasistas. El proyecto Aerocene.
