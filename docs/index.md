@@ -3,7 +3,7 @@
 ## Ciencia abierta & calidad del aire: Monitores digitales libres y juegos para un aprendizaje colaborativo 
 
 **Lugar**: R'lyeh Hacklab - Uruguay y Bartolomé Mitre, CABA    
-**Horario**: 18-21hs    
+**Horario**: 18.30-21hs    
 **Modalidad**: Seis encuentros independientes, con inscripción    
 **Fechas**: Ver detalle de cada encuentro
 
