@@ -2,10 +2,6 @@
 
 Solicitar permiso para fotos/video y redes sociales
 
-## Asistentes
-
-- 
-
 ## Actividades
 
 ### Rompehielo (40')
