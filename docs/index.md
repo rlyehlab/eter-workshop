@@ -19,8 +19,12 @@ Tomando como punto de partida el proyecto ['ETER'](https://etermonitor.net) de m
 
 Alternativas al modelo de producción científica actual ¿Ciencia Abierta, Ciudadana, Comunitaria? Similitudes y diferencias. ¿Por qué armar un proyecto de ciencia comunitaria? ¿Para quién? ¿Qué se necesita? Oportunidades, obstáculos, beneficios. El caso de ETER en Área Reconquista, Buenos Aires.
 
+>>[NOTAS ENCUENTRO 1](https://github.com/rlyehlab/eter-workshop/blob/master/Session1/documentacion.md)<<
+
 ### Encuentro 2: #DesobedienciaTecnológica (Miércoles 06/06)
 De máquinas libres, datos abiertos y humanos colaborativos. Introducción a la Cultura Libre y sus experiencias en el mundo. Ética hacker. Open Source y Free Software en los barrios del planeta: utilidades y oportunidades. Monitores libres, nociones básicas de hardware y software. 
+
+>>[NOTAS ENCUENTRO 2](https://github.com/rlyehlab/eter-workshop/blob/master/Session2/documentacion2.md)<<
 
 ### Encuentro 3: #DeusExMachina (Miércoles 13/06)
 Las luchas por liberar los conocimientos. Datos, información, comunicación, derechos y poder. Métodos para buscar, presentar y utilizar los datos disponibles. El caso de Aaron Swartz. Experiencias comunitarias: la Mesa de Reconquista. 
