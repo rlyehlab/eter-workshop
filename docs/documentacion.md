@@ -2,13 +2,6 @@
 
 Solicitar permiso para fotos/video y redes sociales
 
-<<<<<<< HEAD
-## Asistentes
-
-Ver InscriptosCienciaNinja.txt
-
-=======
->>>>>>> 10a4c9ca40852bd5cd19975a75ce87e4c8a0ba54
 ## Actividades
 
 ### Rompehielo (40')
