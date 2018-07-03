@@ -29,6 +29,8 @@ De máquinas libres, datos abiertos y humanos colaborativos. Introducción a la 
 ### Encuentro 3: #DeusExMachina (Miércoles 13/06)
 Las luchas por liberar los conocimientos. Datos, información, comunicación, derechos y poder. Métodos para buscar, presentar y utilizar los datos disponibles. El caso de Aaron Swartz. Experiencias comunitarias: la Mesa de Reconquista. 
 
+>[NOTAS ENCUENTRO 3](./documentacion3.md)
+
 ### Encuentro 4: #BetterGamify! (Jueves 28/06)
 Elementos de Juegos para poner en práctica en la Ciencia Abierta y Comunitaria. Aprender jugando y haciendo ciencia. Introducción a las teorías y prácticas de la Ludificación. Lo lúdico y el aprendizaje. El diseño de un juego visto desde adentro. 
 
