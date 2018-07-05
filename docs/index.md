@@ -34,6 +34,8 @@ Las luchas por liberar los conocimientos. Datos, información, comunicación, de
 ### Encuentro 4: #BetterGamify! (Jueves 28/06)
 Elementos de Juegos para poner en práctica en la Ciencia Abierta y Comunitaria. Aprender jugando y haciendo ciencia. Introducción a las teorías y prácticas de la Ludificación. Lo lúdico y el aprendizaje. El diseño de un juego visto desde adentro. 
 
+>[NOTAS ENCUENTRO 4](./documentacion4.pdf)
+
 ### Encuentro 5: #DataDataData (Miércoles 04/07)
 Medir el ambiente como otra forma de activismo. Métodos analógicos y digitales al alcance de todxs. Monitores, sensores y planillas. Experiencias y redes internacionales. ¿Qué se hace con los datos? ¿Cómo se usa la información? La experiencia de UNSAM Sustentable. Cooperativas de recicladores del área de Reconquista. La republica Ciruja: iconoclasistas. El proyecto Aerocene.
 
